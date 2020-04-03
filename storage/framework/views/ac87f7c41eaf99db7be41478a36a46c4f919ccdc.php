@@ -1,0 +1,1 @@
+<footer class="footer text-right"> <?php echo e(trans('words.copyright')); ?> © <?php echo e(date('Y')); ?> <a href="http://www.viaviweb.com" target="_blank">Viaviweb.com</a>. <?php echo e(trans('words.all_rights')); ?>. </footer><?php /**PATH /home3/viavilab/public_html/videostreaming/resources/views/admin/copyright.blade.php ENDPATH**/ ?>
